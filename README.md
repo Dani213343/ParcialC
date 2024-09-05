@@ -1,1 +1,3 @@
-# ParcialC
+# Parcial Primer Corte
+
+Daniela López Rincón
